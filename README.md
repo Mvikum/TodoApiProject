@@ -24,5 +24,5 @@ A simple ASP.NET Core Web API project for managing Todo items. This project demo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TodoApiProject.git
+   git clone https://github.com/Mvikum/TodoApiProject.git
    cd TodoApiProject
